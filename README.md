@@ -1,0 +1,2 @@
+# bachelorGIT
+-bachelorOppgave
